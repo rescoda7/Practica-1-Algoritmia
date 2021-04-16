@@ -49,7 +49,7 @@ Con todo lo comentado anteriormente, si tenemos en cuenta el coste total en el p
 2 * (n + n) -> 4 * n -> O(n)
 ```
 ### Coste experimental de la versión iteratica
-<img src="iterativo.png" alt="Costes experimentales" width="400"/>
+<img src="Documentación/Iterativo.png" alt="Costes experimentales" width="400"/>
 Como se observa el coste experiemtal es similar al teorico, con algun pico devido sobre todo a la carga de trabajo que tenga la CPU.
 
 ## Algoritmo recursivo
@@ -86,7 +86,7 @@ Con todo este analisis coste algoritmo total de esta implementacion sera:
 Como se puede observar el coste teorico de la versión recursiva es ligeramente superior al coste de la versión iterativa, devido a la llamda extra que realiza la recursiva.
 
 ### Coste experimental de la versión recursiva
-<img src="recursivo.png" alt="Costes experimentales" width="400"/>
+<img src="Documentación/recursivo.png" alt="Costes experimentales" width="400"/>
 Como se puede observar, a igula que la versión iterativa, el coste experimental es similar al coste teorico, con pequeños picos devido a la carga de CPU en cada momento. Por otro lado el coste experimental puede ser ligeramente superior a la de la iterativa, ya que realizar las llamadas a la función es mas costoso que realizar un bucle.
 
 ## Requerimientos

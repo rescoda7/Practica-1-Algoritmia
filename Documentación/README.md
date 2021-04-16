@@ -49,7 +49,7 @@ Con todo lo comentado anteriormente, si tenemos en cuenta el coste total en el p
 2 * (n + n) -> 4 * n -> O(n)
 ```
 ### Coste experimental de la versión iteratica
-<img src="iterativo.png" alt="Costes experimentales" width="400"/>
+<img src="Iterativo.png" alt="Costes experimentales" width="400"/>
 Como se observa el coste experiemtal es similar al teorico, con algun pico devido sobre todo a la carga de trabajo que tenga la CPU.
 
 ## Algoritmo recursivo

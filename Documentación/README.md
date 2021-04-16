@@ -12,6 +12,8 @@ En este documento vamos a analizar los costes de las implementaciones del algori
 
 Por otro lado antes de continuar, cabe destacar que es necesario leer la sección de requerimientos antes de ejecutar el programa
 
+El enlace de GitHub es el siguiente: https://github.com/rescoda7/Practica-1-Algoritmia
+
 ## Algoritmo iterativo
 Para la obtención del puente con coste menor de forma iterativa se ha utilizado el algoritmo siguiente:
 ```

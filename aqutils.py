@@ -1,6 +1,6 @@
 '''
 Modulo encargado mostrar el aqueducto
-Autor: Ramon Escoda Semis
+Autores: Ramon Escoda Semís y Marc Godia Calderó
 '''
 import math
 import matplotlib.pyplot as plt

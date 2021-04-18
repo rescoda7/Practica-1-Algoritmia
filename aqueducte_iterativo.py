@@ -2,7 +2,7 @@
     Modulo encargado de obtener el aqueducto de coste
     minimo, si es posible
 
-    Autores: Ramon Escoda Semís i Marc Godia Calderó
+    Autores: Ramon Escoda Semís y Marc Godia Calderó
 '''
 import math
 import sys

@@ -1,5 +1,5 @@
 # Memoria de la práctica de Algoritmica y Complejidad
-##### Autores: Ramon Escoda Semís
+##### Autores: Ramon Escoda Semís i Marc Godia Calderó
 
 ## Índice 
 1. Introducción
